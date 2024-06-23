@@ -1,5 +1,7 @@
 # Literalura
 
+![badge literalura](https://github.com/MakotoKun12/literalura/assets/121250940/899bbccb-7d1d-47d6-bff3-51601bc80770)
+
 ## Descripción
 El proyecto "LIteralura" es una aplicación desarrollada en Java que facilita la gestión y consulta de libros utilizando tecnologías modernas de persistencia de datos y consumo de APIs externas. La aplicación emplea Hibernate y JPA para la persistencia de datos en una base de datos relacional, garantizando la eficiencia y flexibilidad en sus operaciones. Además, la aplicación se integra con la API de Gutendex para recuperar su catálogo de libros con información actualizada y detallada.
 
